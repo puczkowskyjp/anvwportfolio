@@ -1,16 +1,12 @@
-# SolidStart
+This project is a personal site built to document the restoration of my 1971 Volkswagen Baywindow Bus — one wrench turn at a time. Along the way, I’m also using it as a learning ground to explore modern web development with:
 
-Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
+SolidStart – A fast, modern framework built on SolidJS
 
-## Creating a project
+Kobalte – Accessible, headless UI components for Solid
 
-```bash
-# create a new project in the current directory
-npm init solid@latest
+The site is part blog, part digital garage, and part developer playground — mixing geospatial skills, vintage mechanics, and web tech into one ongoing project.
 
-# create a new project in my-app
-npm init solid@latest my-app
-```
+Restoring an old VW Bus is slow, messy, and full of lessons — just like learning new frameworks. This project gives me space to reflect on both processes: what I fix, what I break, and what I learn along the way.
 
 ## Developing
 
@@ -23,10 +19,3 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
-
-Solid apps are built with _presets_, which optimise your project for deployment to different environments.
-
-By default, `npm run build` will generate a Node app that you can run with `npm start`. To use a different preset, add it to the `devDependencies` in `package.json` and specify in your `app.config.js`.
-
-## This project was created with the [Solid CLI](https://github.com/solidjs-community/solid-cli)
